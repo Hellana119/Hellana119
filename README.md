@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center"  src="https://c.tenor.com/bfOEyTxwK40AAAAC/work-computer.gif">
+<img align="center" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" alt="coding">
 <h1 align="center">Hi 👋, I'm Hellana Asaad</h1>
 <h3 align="center">Frontend Developer</h3>
 <p>I'm from Egypt, and I do special templates. I have a deep interest in computer science, and i have fun learning programming.</p>
@@ -51,4 +51,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hellana119&show_icons=true&locale=en" alt="hellana119" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hellana119&" alt="hellana119" /></p>
+
