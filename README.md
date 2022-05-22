@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://c.tenor.com/bfOEyTxwK40AAAAC/work-computer.gif
+<img align="center"  src="https://c.tenor.com/bfOEyTxwK40AAAAC/work-computer.gif">
 <h1 align="center">Hi 👋, I'm Hellana Asaad</h1>
 <h3 align="center">Frontend Developer</h3>
 <p>I'm from Egypt, and I do special templates. I have a deep interest in computer science, and i have fun learning programming.</p>
