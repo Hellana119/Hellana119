@@ -1,5 +1,6 @@
 ### Hi 👋, I'm Hellana Asaad
    Frontend Developer
+- 🌱 I’m currently learning Javascript
 
 <!--
 **Hellana119/Hellana119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
