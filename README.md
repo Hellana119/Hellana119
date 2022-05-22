@@ -1,9 +1,13 @@
 ### Hi 👋, I'm Hellana Asaad
    Frontend Developer
+   I'm from Egypt, and I do special templates. I have a deep interest in computer science, and i have fun learning programming. 
 - 🔭 I’m currently working on my personal portfolio
 - 🌱 I’m currently learning Javascript
 - 💬 Ask me about my projects
-- 📫 How to reach me: Gmail(hellana.asaad@gmail.com)
+- 📫 How to reach me: hellana.asaad@gmail.com
+
+## Languages and Tools
+  
 <!--
 **Hellana119/Hellana119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
