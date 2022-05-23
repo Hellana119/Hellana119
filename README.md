@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" alt="coding" width="400" height="400">
+<img align="center" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" alt="coding">
 <h1 align="center">Hi 👋, I'm Hellana Asaad</h1>
 <h3 align="center">Frontend Developer</h3>
 <p>I'm from Egypt, and I do special templates. I have a deep interest in computer science, and i have fun learning programming.</p>
