@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <p>I'm from Egypt, and I do special templates. I have a deep interest in computer science, and i have fun learning programming.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hellana119&label=Profile%20views&color=0e75b6&style=flat" alt="hellana119" /> </p>
+**Hellana119/Hellana119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
