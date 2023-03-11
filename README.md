@@ -1,6 +1,6 @@
 <!--
 ### Hi 👋, I'm Hellana Asaad
-   Frontend Developer
+   FullStack Developer
    I'm from Egypt, and I do special templates. I have a deep interest in computer science, and i have fun learning programming. 
 
   -->
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Hellana Asaad</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">FullStack Developer</h3>
 <p>I'm from Egypt, and I do special templates. I have a deep interest in computer science, and i have fun learning programming.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hellana119&label=Profile%20views&color=0e75b6&style=flat" alt="hellana119" /> </p>
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **my personal portfolio**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **.Net**
 
 - 👨‍💻 All of my projects are available at [https://hellana119.github.io/portfolio-H.A/](https://hellana119.github.io/portfolio-H.A/)
 
