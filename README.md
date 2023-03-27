@@ -22,10 +22,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Hellana Asaad</h1>
 <h3 align="center">FullStack Developer</h3>
-<p>An aspiring, innovative, highly disciplined Full-Stack Developer with Angular, Node Js and 
-.Net frameworks. Seeking to be part of a reputable organization where I can cooperate with 
-my colleagues towards achieving company goals in spreading technological awareness and 
-driving digital transformation through Cutting- edge technologies. </p>
+<p>I'm a Full-Stack Developer with Angular, Node Js and .Net frameworks. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hellana119&label=Profile%20views&color=0e75b6&style=flat" alt="hellana119" /> </p>
 
